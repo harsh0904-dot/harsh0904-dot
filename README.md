@@ -19,20 +19,20 @@ Turning raw operational data into decision-ready dashboards, reports, and insigh
 📍 Bangalore, India
 💼 QA Analyst — R&D (Testing/QA) at Arcserve, focused on data analytics & reporting
 📊 Skilled in SQL, Python, ETL pipeline design, and BI dashboarding (Power BI, Tableau, Grafana, Superset)
-⚡ Also comfortable across the data stack — from pipeline engineering to explainable ML
+⚡ Also comfortable across the data stack — from pipeline engineering to explainable insights
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Languages & Querying
-Python · SQL · PL/SQL
+Python · SQL
 
 ### 📊 Data Analysis & Visualization
 Data Visualization · Business Intelligence (BI) · Power BI · Tableau · Apache Superset · Grafana · Excel (Advanced) · Pandas · NumPy
 
 ### 🗄️ Data Engineering
-ETL Pipeline Design · Reporting Automation · Data Modeling · Data Quality · REST API Integration · Apache Kafka · Data Warehousing · Data Cleaning
+ETL Pipeline Design · Reporting Automation · Data Modeling · Data Quality · REST API Integration · Data Warehousing · Data Cleaning
 
 ### 🗃️ Databases
 PostgreSQL · MySQL
@@ -41,7 +41,7 @@ PostgreSQL · MySQL
 Git · Jira · TestRail · Prometheus
 
 ### 🤖 Machine Learning (supporting skillset)
-Scikit-learn · TensorFlow · XGBoost · SHAP / LIME (Model Explainability)
+Scikit-learn · TensorFlow · XGBoost(Model Explainability)
 
 ---
 
