@@ -18,7 +18,7 @@ Turning raw operational data into decision-ready dashboards, reports, and insigh
 🎓 M.S. in Data Science, Chanakya University (2023–2025)
 📍 Bangalore, India
 💼 QA Analyst — R&D (Testing/QA) at Arcserve, focused on data analytics & reporting
-📊 Skilled in SQL, Python, ETL pipeline design, and BI dashboarding (Power BI, Tableau, Grafana, Superset)
+📊 Skilled in SQL, Python, ETL pipeline design, and BI dashboarding (Power BI, Tableau, Grafana)
 ⚡ Also comfortable across the data stack — from pipeline engineering to explainable ML
 
 ---
