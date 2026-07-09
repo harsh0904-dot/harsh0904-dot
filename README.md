@@ -66,26 +66,9 @@ Scikit-learn · TensorFlow · XGBoost (Model Explainability)
 ## 📊 Featured Power BI Dashboards
 
 Five end-to-end BI projects, each following the same disciplined workflow: **Business Requirements → SQL Analysis → Python Cleaning/EDA → Data Modeling → Power BI Dashboard → Documented Insights.**
-All source files (datasets, SQL, Python, `.pbix`, DAX measures, and documentation) live in one repo: **[Data-Analyst-Projects](https://github.com/harsh0904-dot/Data-Analyst-Projects)**.
+All source files (datasets, SQL, Python, `.pbix`, DAX measures, and documentation) live in one repo: **[Data-Analytics-Projects](https://github.com/harsh0904-dot/Data-Analytics-Projects)**.
 
-### 🛒 1. NovaMart Executive Business Dashboard
-**Domain:** Retail / Business Analytics &nbsp;|&nbsp; **Stack:** SQL · Python · Power BI
-
-Built for a fictional retail company, NovaMart, to replace fragmented manual reporting with a single trusted executive view of revenue, profitability, and customer/product performance.
-
-- KPI suite: Total Sales, Total Profit, Profit Margin %, Total Orders, Average Order Value, Average Discount %
-- Drill-down by Region, Segment, Category, and Product with MTD/QTD/YTD/YoY time intelligence
-- Margin and discount-impact analysis to flag underperforming segments early
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analyst-Projects/main/01_Business_Analytics/Executive_Business_Dashboard/04_PowerBI/Screenshots/NovaMart_Executive_Dashboard.jpg" width="600" alt="NovaMart Executive Business Dashboard" />
-</p>
-
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analyst-Projects/tree/main/01_Business_Analytics/Executive_Business_Dashboard)
-
----
-
-### 💰 2. Financial Performance Dashboard
+### 💰 1. Financial Performance Dashboard
 **Domain:** Finance / Lending Analytics &nbsp;|&nbsp; **Stack:** SQL · Python (Pandas) · Power BI
 
 Analyzes loan portfolio health — funding, repayments, and risk concentration — to support lending and credit strategy decisions.
@@ -95,14 +78,15 @@ Analyzes loan portfolio health — funding, repayments, and risk concentration �
 - 4-page report: Executive Overview, Lending Portfolio Analysis, Loan Performance & Risk, Customer Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analyst-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Executive%20Overview.jpg" width="600" alt="Financial Performance Dashboard" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Executive%20Overview.jpg" width="48%" alt="Financial Performance Dashboard - Executive Overview" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Loan%20Performance%20%26%20Risk.jpg" width="48%" alt="Financial Performance Dashboard - Loan Performance and Risk" />
 </p>
 
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analyst-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard)
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard)
 
 ---
 
-### 📣 3. Customer Marketing Analytics (AdNova Digital Marketing)
+### 📣 2. Customer Marketing Analytics (AdNova Digital Marketing)
 **Domain:** Marketing Analytics &nbsp;|&nbsp; **Stack:** SQL · Python · Power BI
 
 Evaluates digital advertising performance across platforms, audience segments, and campaign objectives to guide budget reallocation and improve ROI.
@@ -112,14 +96,15 @@ Evaluates digital advertising performance across platforms, audience segments, a
 - Time-based optimization — best-performing days/hours for budget concentration
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analyst-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Marketing%20Executive%20Overview.jpg" width="600" alt="Customer Marketing Analytics Dashboard" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Marketing%20Executive%20Overview.jpg" width="48%" alt="Customer Marketing Analytics - Executive Overview" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Campaign%20Performance%20Analytics.jpg" width="48%" alt="Customer Marketing Analytics - Campaign Performance" />
 </p>
 
-🔗 [View Project](<https://github.com/harsh0904-dot/Data-Analyst-Projects/tree/main/03_Marketing_Analytics/Customer Marketing Analytics>)
+🔗 [View Project](<https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer Marketing Analytics>)
 
 ---
 
-### 🏥 4. MediCare Healthcare Analytics
+### 🏥 3. MediCare Healthcare Analytics
 **Domain:** Healthcare Analytics &nbsp;|&nbsp; **Stack:** MySQL · Python · Power BI
 
 Tracks patient volume, treatment cost, clinical outcomes, and insurance claim patterns for hospital operations and financial monitoring.
@@ -129,14 +114,15 @@ Tracks patient volume, treatment cost, clinical outcomes, and insurance claim pa
 - 3-page report: Hospital Executive Overview, Clinical & Patient Insights, Financial & Hospital Performance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analyst-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Hospital%20Executive%20Overview.jpg" width="600" alt="MediCare Healthcare Analytics Dashboard" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Clinical%20%26%20Patient%20Insights.jpg" width="48%" alt="MediCare Healthcare Analytics - Clinical and Patient Insights" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Financial%20%26%20Hospital%20Performance.jpg" width="48%" alt="MediCare Healthcare Analytics - Financial and Hospital Performance" />
 </p>
 
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analyst-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics)
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics)
 
 ---
 
-### 👥 5. TalentSphere Workforce Analytics
+### 👥 4. TalentSphere Workforce Analytics
 **Domain:** HR Analytics &nbsp;|&nbsp; **Stack:** MySQL · Python · Power BI &nbsp;|&nbsp; **Dataset:** IBM HR Analytics Employee Attrition
 
 Identifies the drivers of employee attrition and surfaces workforce trends for HR leadership decision-making.
@@ -145,16 +131,34 @@ Identifies the drivers of employee attrition and surfaces workforce trends for H
 - 3-page report: HR Executive Analytics, Employee Attrition Analysis, Workforce Performance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analyst-Projects/main/05_HR_Analytics/TalentSphere_Workforce_Analytics/06_Screenshots/HR%20Executive%20Analytics.jpg" width="600" alt="TalentSphere Workforce Analytics Dashboard" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/05_HR_Analytics/TalentSphere_Workforce_Analytics/06_Screenshots/HR%20Executive%20Analytics.jpg" width="48%" alt="TalentSphere Workforce Analytics - HR Executive Analytics" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/05_HR_Analytics/TalentSphere_Workforce_Analytics/06_Screenshots/Workforce%20Performnace.jpg" width="48%" alt="TalentSphere Workforce Analytics - Workforce Performance" />
 </p>
 
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analyst-Projects/tree/main/05_HR_Analytics/TalentSphere_Workforce_Analytics)
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/05_HR_Analytics/TalentSphere_Workforce_Analytics)
+
+---
+
+### 🛒 5. NovaMart Executive Business Dashboard
+**Domain:** Retail / Business Analytics &nbsp;|&nbsp; **Stack:** SQL · Python · Power BI
+
+Built for a fictional retail company, NovaMart, to replace fragmented manual reporting with a single trusted executive view of revenue, profitability, and customer/product performance.
+
+- KPI suite: Total Sales, Total Profit, Profit Margin %, Total Orders, Average Order Value, Average Discount %
+- Drill-down by Region, Segment, Category, and Product with MTD/QTD/YTD/YoY time intelligence
+- Margin and discount-impact analysis to flag underperforming segments early
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/01_Business_Analytics/Executive_Business_Dashboard/04_PowerBI/Screenshots/NovaMart_Executive_Dashboard.jpg" width="600" alt="NovaMart Executive Business Dashboard" />
+</p>
+
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/01_Business_Analytics/Executive_Business_Dashboard)
 
 ---
 
 ### 🧩 Additional Practice & Templates (same repo)
 
-The **[Data-Analyst-Projects](https://github.com/harsh0904-dot/Data-Analyst-Projects)** repo also includes supporting work that shows range beyond the 5 flagship dashboards:
+The **[Data-Analytics-Projects](https://github.com/harsh0904-dot/Data-Analytics-Projects)** repo also includes supporting work that shows range beyond the 5 flagship dashboards:
 
 - `06_SQL_Practice/` — fundamentals → window functions → advanced analytics → business case queries
 - `07_Python_for_Data_Analytics/` — data cleaning, EDA & visualization, feature engineering, automation utilities, mini-projects
