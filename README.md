@@ -1,8 +1,8 @@
-<h1 align="center">Harsh Vardhan Singh</h1>
-<h3 align="center">Data Analyst | BI Reporting | Analytics Engineering</h3>
+<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
+<h3 align="center">Data Analyst | Data & Analytics Engineering | BI Reporting</h3>
 
 <p align="center">
-I transform operational data into decision-ready dashboards, KPI systems, and business insights.
+Turning raw operational data into decision-ready dashboards, reports, and actionable insights.
 </p>
 
 <p align="center">
@@ -11,187 +11,179 @@ I transform operational data into decision-ready dashboards, KPI systems, and bu
   <a href="mailto:singhharshvardhan178@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-Open to full-time Data Analyst and BI roles.
-</p>
+---
+
+## 🚀 Professional Summary
+
+Data Analyst with an M.S. in Data Science and hands-on experience turning raw operational data into decision-ready dashboards and reports.  
+Built automated ETL pipelines that reduced manual reporting effort by **80%** and deployed **15+ Grafana dashboards** used across **5+ projects**.  
+Skilled in SQL, Python, BI reporting, data modeling, data quality, KPI tracking, and stakeholder communication in fast-moving environments.
 
 ---
 
-## Key Impact Highlights
+## 📌 Key Impact Highlights
 
-- Reduced manual reporting effort by 80% by automating ETL pipelines from Jira and TestRail into PostgreSQL.
-- Built and deployed 15+ Grafana dashboards used by 5+ teams for KPI tracking and delivery visibility.
-- Improved dashboard responsiveness by 40% through SQL optimization and schema-level improvements.
-- Delivered 5 end-to-end Power BI projects across Finance, Marketing, Healthcare, HR, and Retail.
-
----
-
-## Professional Experience
-
-### QA Analyst, R&D (Data Analytics and Reporting Focus) | Arcserve
-Bangalore, India | May 2025 - Present
-
-- Engineered automated data pipelines using Python and REST APIs to centralize QA and delivery metrics.
-- Designed interactive reporting systems and executive dashboards to monitor test quality, sprint health, and release trends.
-- Implemented data quality checks, logging, and export workflows to support compliance and audit readiness.
-- Partnered across QA, Engineering, and Product to convert reporting requirements into scalable analytics solutions.
-
-### AI Intern (Virtual) | CodSoft
-2024
-
-- Built practical AI applications including a chatbot, recommendation engine, and image-captioning model.
-- Applied NLP and supervised/unsupervised learning workflows from data preparation to model evaluation.
+- Reduced manual reporting time by **80%** through automated ETL pipelines (Python + REST APIs + PostgreSQL)
+- Built and deployed **15+ interactive Grafana dashboards** for QA and engineering stakeholders
+- Improved dashboard performance by **40%** via SQL query and schema optimization
+- Delivered **5 end-to-end Power BI analytics projects** across Retail, Finance, Marketing, Healthcare, and HR
 
 ---
 
-## Selected Analytics Projects
+## 🛠️ Core Skills
 
-### 1) Financial Performance Dashboard
-Domain: Finance / Lending Analytics  
-Stack: SQL, Python, Power BI
+### 💻 Languages & Querying
+Python · SQL
 
-- Portfolio-level visibility into funding, repayment behavior, and risk distribution.
-- KPI suite includes Collection Efficiency, Charge-Off Rate, and Fully Paid Rate.
-- Multi-page executive reporting for lending strategy and credit monitoring.
+### 📊 Data Analysis, BI & Visualization
+Power BI · DAX · Tableau · Looker · Apache Superset · Grafana · Plotly · Data Visualization · Business Intelligence · Excel (Advanced) · Pandas · NumPy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Executive%20Overview.jpg" width="70%" alt="Financial Performance Dashboard - Executive Overview" />
-</p>
+### 🧩 Dashboarding & App Development
+Streamlit · Interactive Dashboards · Data Storytelling · Render
 
-Project link: https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard
+### 🗄️ Data Engineering
+ETL Pipeline Design · Reporting Automation · Data Modeling · Data Quality · REST API Integration · Apache Kafka · Data Warehousing · Data Cleaning
 
----
+### 🗃️ Databases
+PostgreSQL · MySQL
 
-### 2) Customer Marketing Analytics
-Domain: Marketing Analytics  
-Stack: SQL, Python, Power BI
-
-- Campaign analysis across ROAS, CTR, CPA, and conversion performance.
-- Segment-level profitability analysis across audience demographics.
-- Time-window optimization for spend allocation and performance lift.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Marketing%20Executive%20Overview.jpg" width="70%" alt="Customer Marketing Analytics - Executive Overview" />
-</p>
-
-Project link: https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics
+### 🔧 Tools & Practices
+Git · Jira · TestRail · Prometheus
 
 ---
 
-### 3) MediCare Healthcare Analytics
-Domain: Healthcare Analytics  
-Stack: MySQL, Python, Power BI
+## 💼 Professional Experience
 
-- Performance tracking across patient volume, treatment costs, and outcome quality.
-- Insurance claim and financial trend analysis for operational planning.
-- Structured dashboard narrative for executive, clinical, and financial stakeholders.
+### 📊 QA Analyst – R&D (Testing/QA) — Data Analytics & Reporting Focus | Arcserve
+📅 May 2025 – Present
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Clinical%20%26%20Patient%20Insights.jpg" width="70%" alt="MediCare Healthcare Analytics - Clinical and Patient Insights" />
-</p>
+- Engineered Python-based ETL workflows (`requests`, `pandas`) pulling TestRail and Jira REST API data into PostgreSQL, reducing manual reporting by **80%**
+- Designed and deployed **15+ Grafana dashboards** with dynamic variables and time-series queries for KPI reporting across **5+ project teams**
+- Optimized SQL queries and schema design, improving dashboard load performance by **40%**
+- Implemented logging, data quality checks, and CSV export workflows for audit trails and compliance in cross-functional collaboration
 
-Project link: https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics
+### 🤖 AI Intern (Virtual) | CodSoft
+📅 2024
 
----
-
-## Additional Projects
-
-- TalentSphere Workforce Analytics (HR attrition and workforce performance):  
-  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/05_HR_Analytics/TalentSphere_Workforce_Analytics
-- NovaMart Executive Business Dashboard (retail profitability and discount impact):  
-  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/01_Business_Analytics/Executive_Business_Dashboard
-- Real-Time Weather Alert and Monitoring System (Kafka, PostgreSQL, Superset, Telegram):  
-  https://github.com/harsh0904-dot/Real-Time-Alert-Mechanism-System
-- Diabetes Prediction with Explainability (XGBoost, SHAP, LIME):  
-  https://github.com/harsh0904-dot/Machine-Learning-Research-Paper
-- NLP Smart Campus Chatbot:  
-  https://github.com/harsh0904-dot/Chatbot-Assistant
+- Built 3 AI applications: rule-based chatbot, recommendation engine, and image-captioning model
+- Applied NLP, computer vision, and supervised/unsupervised learning end-to-end
 
 ---
 
-## Skills
+## 🆕 New Projects (Added from Resume)
 
-### Analytics and BI
-Power BI, DAX, Tableau, Apache Superset, Grafana, Advanced Excel, Business Intelligence
+### 📈 Multi-Domain Analytics Portfolio (E-commerce, Travel, Food Delivery)
+**Stack:** Streamlit · Plotly · Python · Pandas · NumPy
 
-### Data and Programming
-Python, SQL, Pandas, NumPy
+- Built a multi-page interactive analytics platform with domain-specific dashboards
+- Delivered 2D/3D visualizations, geographic maps, and KPI scorecards
+- Implemented robust data cleaning and transformation pipelines
+- Deployed end-to-end on Streamlit Cloud with GitHub version control
 
-### Data Engineering
-ETL Design, Data Modeling, Data Quality Validation, Reporting Automation, REST API Integration, Data Warehousing
-
-### Databases
-PostgreSQL, MySQL
-
-### Tools and Workflow
-Git, Jira, TestRail, Prometheus
-
-### Supporting ML Skillset
-Scikit-learn, TensorFlow, XGBoost, Model Explainability
+🔗 **Repository:** _Add your GitHub repo link here_  
+🔗 **Live App (optional):** _Add Streamlit link_
 
 ---
 
-## Education
+### 📡 Live Monitoring Analytics Dashboard
+**Stack:** Python · Streamlit · Plotly · PyVista · Pandas · NumPy
 
-M.S. in Data Science  
-Chanakya University, 2023-2025
+- Built a production-ready multi-page dashboard (Home, About, Dashboard) with modular architecture
+- Added persistent session state, caching, and interactive 2D/3D visualizations for near real-time KPI monitoring
+- Improved cloud reliability by fixing navigation/query-parameter refresh issues
+- Configured Render + Streamlit Cloud deployment with runtime and dependency compatibility
 
-Location: Bangalore, India
-
----
-
-## Certifications
-
-<details>
-  <summary>View certifications</summary>
-
-- Data Analytics - Deloitte
-- Quantitative Research - JP Morgan
-- OpenAI GPT Models - Infosys
-- Prompt Engineering - Infosys
-- Google AI Essentials
-- Google Prompt Essentials
-- Power BI Using AI
-- SQL Using AI
-- Advanced Excel with AI and ChatGPT
-
-</details>
+🔗 **Repository:** _Add your GitHub repo link here_  
+🔗 **Live App (optional):** _Add deployment link_
 
 ---
 
-## Proprietary Work Snapshot
+## 📊 Featured Power BI Dashboards
 
-ETL and Analytics Platform for Test Management  
-Tech: Python, PostgreSQL, Grafana, REST APIs
+All files live in one repository: **[Data-Analytics-Projects](https://github.com/harsh0904-dot/Data-Analytics-Projects)**
 
-- Built centralized analytics architecture for QA reporting at scale.
-- Enabled cross-project trend visibility for 15+ engineering teams.
-- Source code is confidential due to company policy.
+### 💰 Financial Performance Dashboard
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/harsh0904-dot/main/assets/etl-sprint-plan-vs-actual.png" width="70%" alt="Team Sprint Plan vs Actual dashboard" />
-</p>
+### 📣 Customer Marketing Analytics
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics)
+
+### 🏥 MediCare Healthcare Analytics
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics)
+
+### 👥 TalentSphere Workforce Analytics
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/05_HR_Analytics/TalentSphere_Workforce_Analytics)
+
+### 🛒 NovaMart Executive Business Dashboard
+🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/01_Business_Analytics/Executive_Business_Dashboard)
 
 ---
 
-## GitHub Stats
+## 📌 Additional Projects
+
+### 🗄️ ETL & Analytics Platform for Test Management
+**Stack:** Python · PostgreSQL · Grafana · REST APIs  
+- Built centralized QA analytics warehouse integrating multi-source data  
+- Enabled cross-project reporting and trend analysis for **15+ engineering teams**
+
+> 🔒 Proprietary enterprise project (source code confidential)
+
+### ⚡ Real-Time Weather Alert & Monitoring System
+**Stack:** Apache Kafka · PostgreSQL · Apache Superset · Telegram API  
+- Built scalable streaming ingestion with automated alerts for **500+ users** at sub-second latency  
+🔗 [View Repository](https://github.com/harsh0904-dot/Real-Time-Alert-Mechanism-System)
+
+### 🧠 Diabetes Prediction with Explainability
+**Stack:** XGBoost · Random Forest · SHAP · LIME  
+- Achieved **85% prediction accuracy** using ensemble methods + GridSearchCV  
+🔗 [View Repository](https://github.com/harsh0904-dot/Machine-Learning-Research-Paper)
+
+### 💬 NLP-Powered Smart Campus Chatbot
+**Stack:** Python · NLP · Database Integration  
+- Built chatbot handling **100+ query types** with **90%+ intent classification accuracy**  
+🔗 [View Repository](https://github.com/harsh0904-dot/Chatbot-Assistant)
+
+---
+
+## 🎓 Education
+
+- **M.S. in Data Science** — Chanakya University (2023–2025)
+- **B.S. in Physics, Chemistry, Mathematics** — Dr. Bhimrao Ambedkar University (2020–2023)
+
+---
+
+## 📜 Certifications & Workshops
+
+- Data Analytics — Deloitte  
+- Quantitative Research — JP Morgan  
+- OpenAI GPT Models — Infosys  
+- Prompt Engineering — Infosys  
+- Google AI Essentials  
+- Google Prompt Essentials  
+- Power BI Using AI  
+- SQL Using AI  
+- Advanced Excel with AI & ChatGPT  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0904-dot&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0904-dot&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0904-dot&layout=compact&hide_border=true" width="40%" alt="Top Languages" />
 </p>
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
-- Email: [singhharshvardhan178@gmail.com](mailto:singhharshvardhan178@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/harsh-vardhan-singh-3180222b1
-- Portfolio: https://harsh-portfolio-nine-delta.vercel.app
-- GitHub: https://github.com/harsh0904-dot
-
-<p align="center">
-  Strong analytics is not just about dashboards. It is about driving better business decisions.
-</p>
+📧 **Email:** [singhharshvardhan178@gmail.com](mailto:singhharshvardhan178@gmail.com)  
+💼 **LinkedIn:** [Harsh Vardhan Singh](https://www.linkedin.com/in/harsh-vardhan-singh-3180222b1)  
+🌍 **Portfolio:** [harsh-portfolio-nine-delta.vercel.app](https://harsh-portfolio-nine-delta.vercel.app)  
+🐙 **GitHub:** [harsh0904-dot](https://github.com/harsh0904-dot)
 
 ---
+
+<p align="center">
+⭐ Turning raw data into decisions people can act on. ⭐
+</p>
