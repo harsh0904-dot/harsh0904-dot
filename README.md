@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
-<h3 align="center">Data Analyst | Power BI & BI Reporting | Data Engineering</h3>
+<h1 align="center">Harsh Vardhan Singh</h1>
+<h3 align="center">Data Analyst | BI Reporting | Analytics Engineering</h3>
 
 <p align="center">
-Turning raw operational data into decision-ready dashboards, reports, and insights.
+I convert raw operational data into decision-ready dashboards, KPI frameworks, and business insights.
 </p>
 
 <p align="center">
@@ -11,257 +11,242 @@ Turning raw operational data into decision-ready dashboards, reports, and insigh
   <a href="mailto:singhharshvardhan178@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+## Professional Summary
+Data Analyst with hands-on experience building reporting pipelines, KPI dashboards, and analytics systems across QA, Finance, Marketing, Healthcare, HR, and Retail use cases.
 
-## 🚀 About Me
+## Impact Highlights
+- Reduced manual reporting effort by 80 percent through automated ETL pipelines (Python, REST APIs, PostgreSQL).
+- Built 15+ interactive Grafana dashboards used by 5+ project teams.
+- Improved dashboard load performance by 40 percent via SQL and schema optimization.
+- Delivered 5 end-to-end Power BI dashboards using the full analyst workflow from SQL to executive insights.
 
-🎓 M.S. in Data Science, Chanakya University (2023–2025)
-📍 Bangalore, India
-💼 QA Analyst — R&D (Testing/QA) at Arcserve, focused on data analytics & reporting
-📊 5 end-to-end Power BI dashboards across Retail, Finance, Marketing, Healthcare & HR — each built on the full analyst workflow: raw data → SQL → Python → data model → dashboard
-⚡ Comfortable across the full data stack — from pipeline engineering to executive-level storytelling
+## Core Skills
+- Analytics and BI: Power BI, DAX, Tableau, Grafana, Apache Superset, Advanced Excel
+- Data and Programming: Python, SQL, Pandas, NumPy
+- Data Engineering: ETL Design, Data Modeling, Data Quality Validation, Reporting Automation, REST API Integration
+- Databases: PostgreSQL, MySQL
+- Workflow and Tools: Git, Jira, TestRail, Prometheus
 
----
+## Experience
+QA Analyst, R&D (Data Analytics and Reporting Focus) | Arcserve  
+Bangalore, India | May 2025 - Present
 
-## 🛠️ Technical Skills
+- Built and automated ETL pipelines for Jira and TestRail reporting.
+- Created dashboards for KPI monitoring, trend analysis, and stakeholder reporting.
+- Implemented logging and data quality checks for audit-ready analytics workflows.
+- Collaborated with QA, Engineering, and Product teams to operationalize reporting.
 
-### 💻 Languages & Querying
-Python · SQL
+AI Intern (Virtual) | CodSoft | 2024
 
-### 📊 Data Analysis & Visualization
-Power BI · DAX · Tableau · Apache Superset · Grafana · Data Visualization · Business Intelligence (BI) · Excel (Advanced) · Pandas · NumPy
+- Developed practical AI projects including chatbot, recommendation engine, and image captioning model.
 
-### 🗄️ Data Engineering
-ETL Pipeline Design · Data Modeling · Reporting Automation · Data Quality & Validation · REST API Integration · Data Warehousing · Data Cleaning
+## Selected Projects
+- Financial Performance Dashboard (Power BI, SQL, Python)  
+  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard
+- Customer Marketing Analytics (Power BI, SQL, Python)  
+  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics
+- MediCare Healthcare Analytics (Power BI, MySQL, Python)  
+  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics
+- TalentSphere Workforce Analytics  
+  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/05_HR_Analytics/TalentSphere_Workforce_Analytics
+- NovaMart Executive Dashboard  
+  https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/01_Business_Analytics/Executive_Business_Dashboard
 
-### 🗃️ Databases
-PostgreSQL · MySQL
+## Education
+M.S. in Data Science, Chanakya University (2023-2025)
 
-### 🔧 Tools & Practices
-Git · Jira · TestRail · Prometheus
-
-### 🤖 Machine Learning (supporting skillset)
-Scikit-learn · TensorFlow · XGBoost (Model Explainability)
-
----
-
-## 💼 Professional Experience
-
-### 📊 QA Analyst – R&D (Testing/QA) — Data Analytics & Reporting Focus | Arcserve
-📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – Present
-
-- Engineered automated ETL pipelines (Python, REST APIs) pulling TestRail and Jira data into PostgreSQL — cut manual reporting time by **80%**
-- Designed and deployed **15+ interactive Grafana dashboards** with dynamic variables and time-series queries, delivering KPI tracking and stakeholder reporting for **5+ project teams**
-- Optimized SQL queries and schema design — improved dashboard load times by **40%**
-- Implemented logging, data quality checks, and CSV export workflows for audit trails and regulatory compliance, in close cross-functional collaboration with QA, engineering, and product teams
-
-### 🤖 AI Intern (Virtual) | CodSoft
-📅 2024
-
-- Built 3 AI applications: a rule-based chatbot, a recommendation engine, and an image-captioning model
-- Applied NLP, computer vision, and supervised/unsupervised learning end-to-end
+## Open To
+Full-time Data Analyst and BI Reporting opportunities.
 
 ---
 
-## 📊 Featured Power BI Dashboards
+## 2. Premium Visual V3 (strong personal brand + clean showcase)
 
-Five end-to-end BI projects, each following the same disciplined workflow: **Business Requirements → SQL Analysis → Python Cleaning/EDA → Data Modeling → Power BI Dashboard → Documented Insights.**
-All source files (datasets, SQL, Python, `.pbix`, DAX measures, and documentation) live in one repo: **[Data-Analytics-Projects](https://github.com/harsh0904-dot/Data-Analytics-Projects)**.
-
-### 💰 1. Financial Performance Dashboard
-**Domain:** Finance / Lending Analytics &nbsp;|&nbsp; **Stack:** SQL · Python (Pandas) · Power BI
-
-Analyzes loan portfolio health — funding, repayments, and risk concentration — to support lending and credit strategy decisions.
-
-- KPIs: Total Loans Issued, Total Funded Amount, Net Payment Gap, Collection Efficiency, Charge-Off Rate, Fully Paid Rate
-- Risk segmentation by grade, purpose, term, and geography
-- 4-page report: Executive Overview, Lending Portfolio Analysis, Loan Performance & Risk, Customer Analytics
+<h1 align="center">Harsh Vardhan Singh</h1>
+<h3 align="center">Data Analyst • BI Reporting • Analytics Engineering</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Executive%20Overview.jpg" width="48%" alt="Financial Performance Dashboard - Executive Overview" />
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Loan%20Performance%20%26%20Risk.jpg" width="48%" alt="Financial Performance Dashboard - Loan Performance and Risk" />
-</p>
-
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard)
-
----
-
-### 📣 2. Customer Marketing Analytics (AdNova Digital Marketing)
-**Domain:** Marketing Analytics &nbsp;|&nbsp; **Stack:** SQL · Python · Power BI
-
-Evaluates digital advertising performance across platforms, audience segments, and campaign objectives to guide budget reallocation and improve ROI.
-
-- ROAS, CTR, CPA, and conversion-rate analysis by platform and campaign objective
-- Audience segment (age/gender/interest) profitability and retargeting effectiveness
-- Time-based optimization — best-performing days/hours for budget concentration
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Marketing%20Executive%20Overview.jpg" width="48%" alt="Customer Marketing Analytics - Executive Overview" />
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Campaign%20Performance%20Analytics.jpg" width="48%" alt="Customer Marketing Analytics - Campaign Performance" />
-</p>
-
-🔗 [View Project](<https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer Marketing Analytics>)
-
----
-
-### 🏥 3. MediCare Healthcare Analytics
-**Domain:** Healthcare Analytics &nbsp;|&nbsp; **Stack:** MySQL · Python · Power BI
-
-Tracks patient volume, treatment cost, clinical outcomes, and insurance claim patterns for hospital operations and financial monitoring.
-
-- Covers 984 patients · ₹8.23M total treatment cost · 35.67% insurance-claim rate · 3.60 avg. satisfaction score
-- Key finding: Cancer treatment drives the highest cost per case; Recovered outcomes account for 60% of records
-- 3-page report: Hospital Executive Overview, Clinical & Patient Insights, Financial & Hospital Performance
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Clinical%20%26%20Patient%20Insights.jpg" width="48%" alt="MediCare Healthcare Analytics - Clinical and Patient Insights" />
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Financial%20%26%20Hospital%20Performance.jpg" width="48%" alt="MediCare Healthcare Analytics - Financial and Hospital Performance" />
-</p>
-
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics)
-
----
-
-### 👥 4. TalentSphere Workforce Analytics
-**Domain:** HR Analytics &nbsp;|&nbsp; **Stack:** MySQL · Python · Power BI &nbsp;|&nbsp; **Dataset:** IBM HR Analytics Employee Attrition
-
-Identifies the drivers of employee attrition and surfaces workforce trends for HR leadership decision-making.
-
-- 1,470 employees tracked · 16.12% attrition rate · ₹6.50K average monthly income · 36.92 average age
-- 3-page report: HR Executive Analytics, Employee Attrition Analysis, Workforce Performance
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/05_HR_Analytics/TalentSphere_Workforce_Analytics/06_Screenshots/HR%20Executive%20Analytics.jpg" width="48%" alt="TalentSphere Workforce Analytics - HR Executive Analytics" />
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/05_HR_Analytics/TalentSphere_Workforce_Analytics/06_Screenshots/Workforce%20Performnace.jpg" width="48%" alt="TalentSphere Workforce Analytics - Workforce Performance" />
-</p>
-
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/05_HR_Analytics/TalentSphere_Workforce_Analytics)
-
----
-
-### 🛒 5. NovaMart Executive Business Dashboard
-**Domain:** Retail / Business Analytics &nbsp;|&nbsp; **Stack:** SQL · Python · Power BI
-
-Built for a fictional retail company, NovaMart, to replace fragmented manual reporting with a single trusted executive view of revenue, profitability, and customer/product performance.
-
-- KPI suite: Total Sales, Total Profit, Profit Margin %, Total Orders, Average Order Value, Average Discount %
-- Drill-down by Region, Segment, Category, and Product with MTD/QTD/YTD/YoY time intelligence
-- Margin and discount-impact analysis to flag underperforming segments early
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/01_Business_Analytics/Executive_Business_Dashboard/04_PowerBI/Screenshots/NovaMart_Executive_Dashboard.jpg" width="600" alt="NovaMart Executive Business Dashboard" />
-</p>
-
-🔗 [View Project](https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/01_Business_Analytics/Executive_Business_Dashboard)
-
----
-
-### 🧩 Additional Practice & Templates (same repo)
-
-The **[Data-Analytics-Projects](https://github.com/harsh0904-dot/Data-Analytics-Projects)** repo also includes supporting work that shows range beyond the 5 flagship dashboards:
-
-- `06_SQL_Practice/` — fundamentals → window functions → advanced analytics → business case queries
-- `07_Python_for_Data_Analytics/` — data cleaning, EDA & visualization, feature engineering, automation utilities, mini-projects
-- `08_Dashboard_Templates/` — reusable Executive KPI, Sales, Finance, HR, and Healthcare Power BI templates
-- `09_End_to_End_Case_Studies/` — Retail Revenue, Customer Churn, and Hospital Operations case studies
-
----
-
-## 📌 Earlier Projects
-
-### 🗄️ ETL & Analytics Platform for Test Management
-**Tech Stack:** Python · PostgreSQL · Grafana · REST APIs
-**Highlights:**
-- Built a centralized QA analytics data warehouse integrating multi-source data
-- Automated ETL workflows for TestRail and Jira
-- Enabled cross-project reporting and trend analysis for **15+ engineering teams**
-
-> 🔒 **This is a proprietary company project (Arcserve) — source code is confidential and not publicly shareable.**
-> Dashboard previews below (sanitized of internal test/defect data):
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/harsh0904-dot/main/assets/etl-sprint-plan-vs-actual.png" width="600" alt="Team Sprint Plan vs Actual dashboard" />
-  <br/>
-  <em>Team-level sprint plan vs. actual tracking (automation defects, spillover, new test case plans)</em>
+Turning raw operational data into decision-ready intelligence.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/harsh0904-dot/main/assets/etl-test-case-classification.png" width="450" alt="Test Case Classification by Automation Feasibility" />
-  <br/>
-  <em>Test case classification breakdown by automation feasibility</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0904-dot/harsh0904-dot/main/assets/etl-automation-breakdown.jpg" width="450" alt="Automation Breakdown" />
-  <br/>
-  <em>Overall automation coverage breakdown</em>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-singh-3180222b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harsh-portfolio-nine-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:singhharshvardhan178@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ Real-Time Weather Alert & Monitoring System
-**Tech Stack:** Apache Kafka · PostgreSQL · Apache Superset · Telegram API
-**Highlights:**
-- Built a scalable streaming ingestion pipeline using Kafka
-- Implemented sub-second alert processing
-- Served **500+ active users** with automated Telegram notifications
+## Snapshot
 
-🔗 [View Repository](https://github.com/harsh0904-dot/Real-Time-Alert-Mechanism-System)
+<table>
+<tr>
+<td width="50%">
 
----
+### What I Do
+- Build scalable BI reporting systems
+- Automate analytics pipelines
+- Design dashboards for business decisions
 
-### 🧠 Diabetes Prediction Model with Explainability
-**Tech Stack:** XGBoost · Random Forest · SVM · SHAP · LIME
-**Highlights:**
-- Achieved **85% prediction accuracy** using ensemble methods and GridSearchCV hyperparameter tuning
-- Integrated SHAP & LIME so healthcare stakeholders could interpret feature importance behind predictions
+</td>
+<td width="50%">
 
-🔗 [View Repository](https://github.com/harsh0904-dot/Machine-Learning-Research-Paper)
+### Proven Outcomes
+- 80 percent reduction in manual reporting
+- 15+ dashboards delivered
+- 40 percent faster dashboard performance
+- 5 domain-specific Power BI solutions
 
----
-
-### 💬 NLP-Powered Smart Campus Chatbot
-**Tech Stack:** Python · NLP · Database Integration
-**Highlights:**
-- Built a chatbot handling **100+ query types** with **90%+ intent classification accuracy**
-- Integrated with campus databases for real-time schedule and resource lookups
-
-🔗 [View Repository](https://github.com/harsh0904-dot/Chatbot-Assistant)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications & Workshops
+## Featured Work
 
-- Data Analytics — Deloitte
-- Quantitative Research — JP Morgan
-- OpenAI GPT Models — Infosys
-- Prompt Engineering — Infosys
-- Google AI Essentials
-- Google Prompt Essentials
-- Power BI Using AI
-- SQL Using AI
-- Advanced Excel with AI & ChatGPT
-
----
-
-## 📈 GitHub Stats
+### Financial Performance Dashboard
+Domain: Finance and Lending  
+Stack: SQL, Python, Power BI
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0904-dot&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0904-dot&layout=compact&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Executive%20Overview.jpg" width="80%" alt="Financial Dashboard" />
+</p>
+
+Project: https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard
+
+### Customer Marketing Analytics
+Domain: Marketing Analytics  
+Stack: SQL, Python, Power BI
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Marketing%20Executive%20Overview.jpg" width="80%" alt="Marketing Dashboard" />
+</p>
+
+Project: https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics
+
+### MediCare Healthcare Analytics
+Domain: Healthcare Analytics  
+Stack: MySQL, Python, Power BI
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Clinical%20%26%20Patient%20Insights.jpg" width="80%" alt="Healthcare Dashboard" />
+</p>
+
+Project: https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics
+
+---
+
+## Experience
+
+QA Analyst, R&D (Analytics and Reporting) | Arcserve  
+Bangalore, India | May 2025 - Present
+
+- Automated multi-source ETL pipelines for QA intelligence
+- Delivered KPI dashboards for sprint, quality, and release analytics
+- Improved query and reporting performance across reporting layers
+
+---
+
+## Skills Stack
+
+- BI and Visualization: Power BI, DAX, Tableau, Grafana, Apache Superset
+- Data: SQL, Python, Pandas, NumPy
+- Engineering: ETL, Data Modeling, API Integration, Data Validation
+- Platforms: PostgreSQL, MySQL, Git, Jira, TestRail, Prometheus
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/harsh-vardhan-singh-3180222b1
+- Portfolio: https://harsh-portfolio-nine-delta.vercel.app
+- Email: mailto:[singhharshvardhan178@gmail.com](mailto:singhharshvardhan178@gmail.com)
+
+<p align="center">
+Data is useful only when it drives action.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 3. Best-of-Both Final Version (recommended)
 
-📧 **Email:** [singhharshvardhan178@gmail.com](mailto:singhharshvardhan178@gmail.com)
-💼 **LinkedIn:** [Harsh Vardhan Singh](https://www.linkedin.com/in/harsh-vardhan-singh-3180222b1)
-🌍 **Portfolio:** [harsh-portfolio-nine-delta.vercel.app](https://harsh-portfolio-nine-delta.vercel.app)
-🐙 **GitHub:** [harsh0904-dot](https://github.com/harsh0904-dot)
+This combines ATS clarity + strong visual polish without looking crowded.
 
----
+<h1 align="center">Harsh Vardhan Singh</h1>
+<h3 align="center">Data Analyst | BI Reporting | Analytics Engineering</h3>
 
 <p align="center">
-⭐ "Turning raw data into decisions people can act on." ⭐
+I help teams make faster, better decisions through analytics pipelines, KPI dashboards, and business intelligence systems.
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-vardhan-singh-3180222b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harsh-portfolio-nine-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:singhharshvardhan178@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+## Impact Highlights
+- Reduced manual reporting by 80 percent via ETL automation (Python, REST APIs, PostgreSQL).
+- Built and deployed 15+ Grafana dashboards used by 5+ project teams.
+- Improved reporting performance by 40 percent through SQL and schema tuning.
+- Delivered 5 end-to-end Power BI dashboard projects across major business domains.
+
+## Professional Experience
+QA Analyst, R&D (Data Analytics and Reporting Focus) | Arcserve  
+Bangalore, India | May 2025 - Present
+
+- Engineered analytics pipelines integrating Jira and TestRail data.
+- Built KPI and trend dashboards for quality, delivery, and stakeholder reporting.
+- Implemented data quality checks and export workflows for audit readiness.
+- Worked cross-functionally with QA, Product, and Engineering teams.
+
+AI Intern (Virtual) | CodSoft | 2024
+
+- Built AI applications including chatbot, recommendation engine, and image captioning.
+
+## Featured Projects
+
+### Financial Performance Dashboard
+Finance and Lending Analytics | SQL, Python, Power BI  
+https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/02_Finance_Analytics/Financial_Performance_Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/02_Finance_Analytics/Financial_Performance_Dashboard/screenshots/Executive%20Overview.jpg" width="70%" alt="Financial Dashboard" />
+</p>
+
+### Customer Marketing Analytics
+Marketing Analytics | SQL, Python, Power BI  
+https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/03_Marketing_Analytics/Customer%20Marketing%20Analytics/06_Screenshots/Marketing%20Executive%20Overview.jpg" width="70%" alt="Marketing Dashboard" />
+</p>
+
+### MediCare Healthcare Analytics
+Healthcare Analytics | MySQL, Python, Power BI  
+https://github.com/harsh0904-dot/Data-Analytics-Projects/tree/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh0904-dot/Data-Analytics-Projects/main/04_Healthcare_Analytics/MediCare_Healthcare_Analytics/06_Screenshots/Clinical%20%26%20Patient%20Insights.jpg" width="70%" alt="Healthcare Dashboard" />
+</p>
+
+## Additional Repositories
+- Real-Time Alert Mechanism System: https://github.com/harsh0904-dot/Real-Time-Alert-Mechanism-System
+- Machine Learning Research Paper: https://github.com/harsh0904-dot/Machine-Learning-Research-Paper
+- Chatbot Assistant: https://github.com/harsh0904-dot/Chatbot-Assistant
+
+## Skills
+- BI: Power BI, DAX, Tableau, Grafana, Apache Superset
+- Data: SQL, Python, Pandas, NumPy, Advanced Excel
+- Engineering: ETL, Data Modeling, API Integration, Data Quality Validation
+- Databases and Tools: PostgreSQL, MySQL, Git, Jira, TestRail, Prometheus
+- Supporting ML: Scikit-learn, TensorFlow, XGBoost, SHAP, LIME
+
+## Education
+M.S. in Data Science, Chanakya University (2023-2025)
+
+## Open To
+Full-time Data Analyst and BI Reporting opportunities.
+
+---
